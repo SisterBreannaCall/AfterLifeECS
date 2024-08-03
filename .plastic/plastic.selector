@@ -1,0 +1,4 @@
+repository "AfterLifeECS@JonathanGibsonStudios@cloud"
+  path "/"
+    br "/main"
+    co "/main"
